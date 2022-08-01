@@ -12,7 +12,7 @@ spec:
 
   - name: nginx
 
-    image: nginx:latest
+    image: bitnami/nginx:latest
 
     ports:
 
